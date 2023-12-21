@@ -1,0 +1,11 @@
+main: io.avellea.modmail.App
+name: ModMail
+description: 
+version: 1.0-SNAPSHOT
+author: avellea
+website: https://avellea.is-a.dev
+api-version: '1.20'
+commands:
+  modmail:
+    description: Send a message directly to all available staff members.
+    usage: /modmail <message>

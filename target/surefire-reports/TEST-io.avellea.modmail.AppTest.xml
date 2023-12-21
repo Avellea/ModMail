@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="io.avellea.modmail.AppTest" time="0.081" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="MS932"/>
+    <property name="java.class.path" value="d:\Projects\hcmp\modmail\target\test-classes;d:\Projects\hcmp\modmail\target\classes;C:\Users\Avellea\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Avellea\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Avellea\.m2\repository\org\spigotmc\spigot-api\1.20.2-R0.1-SNAPSHOT\spigot-api-1.20.2-R0.1-SNAPSHOT.jar;C:\Users\Avellea\.m2\repository\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar;C:\Users\Avellea\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Avellea\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Avellea\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Avellea\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar;C:\Users\Avellea\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar;C:\Users\Avellea\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;C:\Users\Avellea\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\Avellea\.m2\repository\org\joml\joml\1.10.5\joml-1.10.5.jar;C:\Users\Avellea\.m2\repository\net\md-5\bungeecord-chat\1.20-R0.1\bungeecord-chat-1.20-R0.1.jar;C:\Users\Avellea\.m2\repository\org\yaml\snakeyaml\2.2\snakeyaml-2.2.jar;"/>
+    <property name="java.vm.vendor" value="Microsoft"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://www.microsoft.com"/>
+    <property name="user.timezone" value="America/Chicago"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Microsoft\jdk-11.0.17.8-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Users\Avellea\AppData\Local\Temp\surefire17259554537621535798\surefirebooter13468476008706549321.jar C:\Users\Avellea\AppData\Local\Temp\surefire17259554537621535798 2023-12-21T14-55-53_113-jvmRun1 surefire12439596826070563720tmp surefire_018294528912036119110tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="d:\Projects\hcmp\modmail\target\test-classes;d:\Projects\hcmp\modmail\target\classes;C:\Users\Avellea\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Avellea\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Avellea\.m2\repository\org\spigotmc\spigot-api\1.20.2-R0.1-SNAPSHOT\spigot-api-1.20.2-R0.1-SNAPSHOT.jar;C:\Users\Avellea\.m2\repository\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar;C:\Users\Avellea\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Avellea\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Avellea\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Avellea\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar;C:\Users\Avellea\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar;C:\Users\Avellea\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;C:\Users\Avellea\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\Avellea\.m2\repository\org\joml\joml\1.10.5\joml-1.10.5.jar;C:\Users\Avellea\.m2\repository\net\md-5\bungeecord-chat\1.20-R0.1\bungeecord-chat-1.20-R0.1.jar;C:\Users\Avellea\.m2\repository\org\yaml\snakeyaml\2.2\snakeyaml-2.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Avellea"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="java.home" value="C:\Program Files\Microsoft\jdk-11.0.17.8-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="d:\Projects\hcmp\modmail"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Avellea\AppData\Local\Temp\surefire17259554537621535798\surefirebooter13468476008706549321.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.17+8-LTS"/>
+    <property name="user.name" value="Avellea"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="MS932"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Microsoft-6841889"/>
+    <property name="localRepository" value="C:\Users\Avellea\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/microsoft/openjdk/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\Avellea\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.17"/>
+    <property name="user.dir" value="d:\Projects\hcmp\modmail"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Microsoft\jdk-11.0.17.8-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PowerShell\7;C:\Program Files\Eclipse Adoptium\jdk-21.0.0.35-hotspot\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin;C:\Program Files\Microsoft\jdk-11.0.17.8-hotspot\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;D:\Software\maven\bin\;C:\Program Files\nodejs\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\Avellea\AppData\Local\Android\Sdk\platform-tools\;C:\Program Files\PuTTY\;D:\Software\FFMpeg\bin;D:\Libraries\GtkSharp\2.12\bin;C:\Program Files\Git\cmd;C:\Program Files\gsudo\Current;C:\Program Files\Calibre2\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\cygwin64\bin;C:\Program Files\usbipd-win\;C:\Program Files\starship\bin\;C:\Program Files\PowerShell\7\;C:\Program Files\FirefoxPWA\;C:\Ruby32-x64\bin;C:\Users\Avellea\scoop\apps\python\current\Scripts;C:\Users\Avellea\scoop\apps\python\current;C:\Users\Avellea\scoop\apps\mingw\current\bin;C:\Users\Avellea\scoop\apps\gcc\current\bin;C:\Users\Avellea\scoop\shims;D:\Libraries\Python\Python310\Scripts\;D:\Libraries\Python\Python310\;D:\Libraries\Ruby-3.1.2-dev\bin;C:\Users\Avellea\AppData\Local\Microsoft\WindowsApps;C:\Users\Avellea\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Avellea\.dotnet\tools;C:\Users\Avellea\AppData\Roaming\npm;C:\Users\Avellea\AppData\Local\Microsoft\WinGet\Links;C:\Users\Avellea\AppData\Local\Programs\oh-my-posh\bin;C:\Users\Avellea\.dotnet\tools;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Microsoft"/>
+    <property name="java.vm.version" value="11.0.17+8-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="io.avellea.modmail.AppTest" time="0.003"/>
+</testsuite>
